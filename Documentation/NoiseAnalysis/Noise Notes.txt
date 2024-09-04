@@ -1,0 +1,9 @@
+The most distinct and commonly used sound seems to emulate a hi-hat, either closed or open. Whether it's closed or open, it seems to be the same thing, but either longer or cut off right near the start. That is, with a longer or shorter decay, in terms of Attack Decay Sustain Release - assuming Sustain and Release are zero.
+
+The next most common is a short hit of moderately pitched noise, which seems to emulate either a snare or bass drum. In reality, the actual sound and the waveform appearance doesn't really match either of those, but the effect in context has a similar purpose. In typical common time drum beats, a bass drum is on beats 1 and 3, and a snare is on 2 and 4.
+
+There are also two sounds that are something like an open hi-hat, but a little different. They seem to sound closest to a splash cymbal and Chinese cymbal. The open hi-hat has a kind of pure noise sound, whereas these two sound a little more pitched. The splash cymbal is a little higher pitched, and the Chinese a little lower pitched. It is interesting to note that the two cymbals actually start with the same hit sound, so it is only the tail part that differs in terms of pitch of the noise. The difference between these two and the open hi-hat is fairly subtle, but I wanted to capture these details and notate them differently so the differences could be seen.
+
+In some tracks, the execution of these percussion instruments doesn't match something realistic or playable on classic drum set. For example, Barran Desert has an occasional roll sound that, when the waveforms are examined, actually is made up of a hi-hat roll that seamlessly transitions into a splash cybmal roll at the end. This has an interesting effect that, in isolation, sounds like a kind of techno stutter.
+
+
