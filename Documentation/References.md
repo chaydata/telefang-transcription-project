@@ -1,25 +1,21 @@
-Download mp3s and original music files (incl. .gbs) – zophar.net
-https://www.zophar.net/music/gameboy-gbs/keitai-denjuu-telefang-speed-version
+## Data Sources
 
-Download mp3s (alternative) – khinsider
-https://downloads.khinsider.com/game-soundtracks/album/keitai-denjuu-telefang-speed-version-gb
+* Download mp3s and original music files (incl. .gbs) – zophar.net
+  * https://www.zophar.net/music/gameboy-gbs/keitai-denjuu-telefang-speed-version
+* Download mp3s (alternative) – khinsider
+  * https://downloads.khinsider.com/game-soundtracks/album/keitai-denjuu-telefang-speed-version-gb
+* Download .gbs file (alternative) - meowcorp
+  * http://telefang.meowcorp.us/Keitai%20Denjuu%20Telefang.gbs
+* Song names (best guesses from fans on the old Telefang forum – no official names)
+  * https://forum.telefang.net/viewtopic.php?t=449
 
-Download .gbs file (alternative) - meowcorp
-http://telefang.meowcorp.us/Keitai%20Denjuu%20Telefang.gbs
+## Other References / Credit
 
-Song names (best guesses from fans – no official names)	https://forum.telefang.net/viewtopic.php?t=449
+**Telefang Composer Kinuyo Yamashita**
+* Wikipedia page: https://en.wikipedia.org/wiki/Kinuyo_Yamashita
+* Official Website: https://kinuyoyamashita.com
 
-Composer Kinuyo Yamashita's Wikipedia page
-https://en.wikipedia.org/wiki/Kinuyo_Yamashita
-
-Composer Kinuyo Yamashita's Official Website
-https://kinuyoyamashita.com
-
-Mark Benis transcribed Pokemon Red and Blue - his score and method were a great help and inspiration for this Telefang project - here is his YouTube video with various links in the description
-https://www.youtube.com/watch?v=2WG9V6C1Aew
-
-Mark Benis Pokemon PDF sheet music download
-http://sheet.host/sheet/d67bMY
-
-Mark Benis transcription method explanation
-https://medium.com/@mark_benis/how-to-transcribe-retro-8-bit-video-game-music-7fed1de8a6aa
+**Mark Benis (who transcribed Pkmn Red & Blue - the inspiration for this project)**
+* Pkmn Red & Blue YouTube video with various links in the description: https://www.youtube.com/watch?v=2WG9V6C1Aew
+* PDF sheet music download: http://sheet.host/sheet/d67bMY
+* Transcription method blog post: https://medium.com/@mark_benis/how-to-transcribe-retro-8-bit-video-game-music-7fed1de8a6aa
