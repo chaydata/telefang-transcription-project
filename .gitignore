@@ -5,3 +5,6 @@ LocalRef/
 
 # backup files and folders start with a dot (e.g. musescore)
 .*
+
+# anything I want to hide (e.g. other drafts or backups; short for "ignore")
+IGN_*
