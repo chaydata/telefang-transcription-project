@@ -59,15 +59,15 @@ Maybe! I'm still thinking about how that could work. In terms of creating the tr
 ---  
 ## Contributors
 
-👋🏻 Hi! I'm Chris Hay aka Eldritch Renaissance Cake, and I coordinate this project.
+🍰 **Chris Hay** aka **Eldritch Renaissance Cake**  
+* Hi, I'm the main transcriber and project coordinator!
+* Contact:  
+    * Message "chaydata" on the [Telefang discord](https://discord.com/invite/BMqRucb) or email chris.r.j.hay@gmail.com
+    * Here's my [Linktree](https://linktr.ee/EldritchRenaissanceCake) if you want to check out my other creative stuff. 
 
-Contact:  
-* Message "chaydata" on the [Telefang discord](https://discord.com/invite/BMqRucb) or
-* Email chris.r.j.hay@gmail.com
-* Here's my [Linktree](https://linktr.ee/EldritchRenaissanceCake) if you want to check out my other creative stuff. 
-
-
-There's plans to add transcriptions from at least one other musician as well, so far...  
+♠ **Zach Jackson** aka **Blackjack**
+* Blackjack shared some of his midi transcriptions (e.g. 04 - Barran Desert)
+* Check out [Blackjack's soundcloud](https://soundcloud.com/blackjackbgm)!
 
 ---
 ## License
